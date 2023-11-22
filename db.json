@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Andres",
+      "birthday": "1990-10-02",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "user": "Yohana",
+      "birthday": "1990-10-02",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "user": "Nikita",
+      "birthday": "1990-10-02",
+      "gender": "not-defined"
+    }
+  ]
+}
